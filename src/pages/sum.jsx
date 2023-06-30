@@ -2,13 +2,13 @@ import { useState } from "react";
 import axios from "axios"
 
 export default function MyTestPage() {
-    const [numb1, setNum1] = useState<string>("");
-    const [numb2, setNum2] = useState<string>("");
+    const [numb1, setNum1] = useState("");
+    const [numb2, setNum2] = useState("");
 
     const submithandeler = () => {
         const num1 = parseInt(numb1);
         const num2 = parseInt(numb2);
-        axios.post("/api/test", { num1, num2 }).then((result) => {
+        axios.post("/api/sum", { num1, num2 }).then((result) => {
             console.log(result.data)
         }).catch((err) => {
             console.log("err")
