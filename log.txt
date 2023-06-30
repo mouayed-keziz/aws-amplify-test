@@ -1,0 +1,5 @@
+30/6/2023:23:34:28 : {"num1":1,"num2":12,"sum":13}
+30/6/2023:23:34:30 : {"num1":1,"num2":12,"sum":13}
+30/6/2023:23:34:30 : {"num1":1,"num2":12,"sum":13}
+30/6/2023:23:34:39 : {"fields":{"name":"aze","city":"qsd"},"files":{"files":{"size":2429847,"filepath":"C:\\Users\\legion\\AppData\\Local\\Temp\\52683d3d8a47fac0c8aed2200","newFilename":"52683d3d8a47fac0c8aed2200","mimetype":"application/pdf","mtime":"2023-06-30T22:34:39.833Z","originalFilename":"Chapter 2. FOL.pdf"}},"length":3239796}
+30/6/2023:23:34:42 : {"fields":{"name":"aze","city":"qsd"},"files":{"files":{"size":13,"filepath":"C:\\Users\\legion\\AppData\\Local\\Temp\\52683d3d8a47fac0c8aed2201","newFilename":"52683d3d8a47fac0c8aed2201","mimetype":"text/plain","mtime":"2023-06-30T22:34:42.166Z","originalFilename":"something.txt"}},"length":20}
